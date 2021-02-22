@@ -55,4 +55,4 @@ The analysis of the election show that:
     - with open(file_to_load) as election_data:
     - file_reader = csv.reader(NEW CSV FILE HERE)
     
-Once this is done, the script can me modfied to run the amount of candidates and change counties to states. etc. Another example isto modify the script so that you can see the percentages of votes that a candidate had with the a specific county or state3.
+Once this is done, the script can me modfied to run the amount of candidates and change counties to states. etc. Another example isto modify the script so that you can see the percentages of votes that a candidate had with the a specific county or state.
