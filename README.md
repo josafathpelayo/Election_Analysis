@@ -37,9 +37,9 @@ The analysis of the election show that:
 The analysis of the election show that:
 - There were a total of 369,711 number of votes.
 - From the total votes:
-  -Jefferson county had 10.5% of the vote and 38,855 number of votes
-  -Denver county had 82.8% of the vote and 306,055 number of votes
-  -Arapahoe county hasd 6.7% of the vote and 24,801 number of votes
+  - Jefferson county had 10.5% of the vote and 38,855 number of votes
+  - Denver county had 82.8% of the vote and 306,055 number of votes
+  - Arapahoe county hasd 6.7% of the vote and 24,801 number of votes
 - With the data split in three counties, Denver had the largest.
 - The candidate results were:
   - Charles Casper Stockham recieved 23.% of the vote and 85,213 number of votes.
@@ -49,3 +49,4 @@ The analysis of the election show that:
   -Diana DeGette recieved 73.8 of the vote and 272,892 number of votes.
 
   ## Challenge Summary
+  Overall, the script used in this analysis can be used in many was outside this election audit. The script can be changed to meet any other election as long as one refractors the code to handle more than just three canindates and counties. The code can be changed
