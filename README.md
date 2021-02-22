@@ -50,8 +50,7 @@ The analysis of the election show that:
 -[Data image](https://github.com/josafathpelayo/Election_Analysis/blob/main/election%20txt%20results.png)
   ## Challenge Summary
   Overall, the script used in this analysis can be used in many ways outside this election audit. The script can be changed to meet any other election as long as one refractors the code to handle more than just three canindates or counties. The code can be changed by changing the csv file to what ever election data being analized.
-  Ex.
-  Read the csv and convert it into a list of dictionaries
-    with open(file_to_load) as election_data:
-    file_reader = csv.reader(NEW CSV FILE HERE)
+-Ex. Read the csv and convert it into a list of dictionaries
+    -with open(file_to_load) as election_data:
+    -file_reader = csv.reader(NEW CSV FILE HERE)
 Once this is done, the script can me modfied to run the amount of candidates and change counties to states. etc. Another example isto modify the script so that you can see the percentages of votes that a candidate had with the a specific county or state3.
