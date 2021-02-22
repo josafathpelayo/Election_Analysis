@@ -24,7 +24,7 @@ county_dict = {}
 
 # Track the winning candidate, vote count and percentage
 winning_candidate = ""
-winning_count = 0
+winning_count = 0 
 
 # 2: Track the largest county and county voter turnout.
 winning_county = ""
